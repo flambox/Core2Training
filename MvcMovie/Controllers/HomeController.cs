@@ -14,6 +14,10 @@ namespace MvcMovie.Controllers
         {
             return View();
         }
+        // public String Index()
+        // {
+        //     return "Hello";
+        // }
 
         public IActionResult Privacy()
         {
@@ -24,6 +28,21 @@ namespace MvcMovie.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public string Welcome()
+        {
+            return "This is the Welcome action method...";
+        }
+
+        public int GetNumber()
+        {
+            return 2; 
+        }
+
+        public string HowAreYou()
+        {
+            return "I am doing well.";
         }
     }
 }
