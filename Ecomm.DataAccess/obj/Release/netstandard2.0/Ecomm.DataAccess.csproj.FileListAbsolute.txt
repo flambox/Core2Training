@@ -1,0 +1,12 @@
+C:\Users\ISInc\Code\Ecomm.DataAccess\bin\Release\netstandard2.0\Ecomm.DataAccess.deps.json
+C:\Users\ISInc\Code\Ecomm.DataAccess\bin\Release\netstandard2.0\Ecomm.DataAccess.dll
+C:\Users\ISInc\Code\Ecomm.DataAccess\bin\Release\netstandard2.0\Ecomm.DataAccess.pdb
+C:\Users\ISInc\Code\Ecomm.DataAccess\bin\Release\netstandard2.0\Ecomm.Model.dll
+C:\Users\ISInc\Code\Ecomm.DataAccess\bin\Release\netstandard2.0\Ecomm.Model.pdb
+C:\Users\ISInc\Code\Ecomm.DataAccess\obj\Release\netstandard2.0\Ecomm.DataAccess.csprojAssemblyReference.cache
+C:\Users\ISInc\Code\Ecomm.DataAccess\obj\Release\netstandard2.0\Ecomm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\Code\Ecomm.DataAccess\obj\Release\netstandard2.0\Ecomm.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ISInc\Code\Ecomm.DataAccess\obj\Release\netstandard2.0\Ecomm.DataAccess.AssemblyInfo.cs
+C:\Users\ISInc\Code\Ecomm.DataAccess\obj\Release\netstandard2.0\Ecomm.DataAccess.csproj.CopyComplete
+C:\Users\ISInc\Code\Ecomm.DataAccess\obj\Release\netstandard2.0\Ecomm.DataAccess.dll
+C:\Users\ISInc\Code\Ecomm.DataAccess\obj\Release\netstandard2.0\Ecomm.DataAccess.pdb

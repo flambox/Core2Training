@@ -1,0 +1,9 @@
+C:\Users\ISInc\Code\Ecomm.Model\bin\Release\netstandard2.0\Ecomm.Model.deps.json
+C:\Users\ISInc\Code\Ecomm.Model\bin\Release\netstandard2.0\Ecomm.Model.dll
+C:\Users\ISInc\Code\Ecomm.Model\bin\Release\netstandard2.0\Ecomm.Model.pdb
+C:\Users\ISInc\Code\Ecomm.Model\obj\Release\netstandard2.0\Ecomm.Model.csprojAssemblyReference.cache
+C:\Users\ISInc\Code\Ecomm.Model\obj\Release\netstandard2.0\Ecomm.Model.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\Code\Ecomm.Model\obj\Release\netstandard2.0\Ecomm.Model.AssemblyInfoInputs.cache
+C:\Users\ISInc\Code\Ecomm.Model\obj\Release\netstandard2.0\Ecomm.Model.AssemblyInfo.cs
+C:\Users\ISInc\Code\Ecomm.Model\obj\Release\netstandard2.0\Ecomm.Model.dll
+C:\Users\ISInc\Code\Ecomm.Model\obj\Release\netstandard2.0\Ecomm.Model.pdb

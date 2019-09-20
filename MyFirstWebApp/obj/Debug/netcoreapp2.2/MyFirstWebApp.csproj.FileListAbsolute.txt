@@ -1,0 +1,14 @@
+C:\Users\ISInc\code\myfirstwebapp\bin\Debug\netcoreapp2.2\MyFirstWebApp.deps.json
+C:\Users\ISInc\code\myfirstwebapp\bin\Debug\netcoreapp2.2\MyFirstWebApp.runtimeconfig.json
+C:\Users\ISInc\code\myfirstwebapp\bin\Debug\netcoreapp2.2\MyFirstWebApp.runtimeconfig.dev.json
+C:\Users\ISInc\code\myfirstwebapp\bin\Debug\netcoreapp2.2\MyFirstWebApp.dll
+C:\Users\ISInc\code\myfirstwebapp\bin\Debug\netcoreapp2.2\MyFirstWebApp.pdb
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.csprojAssemblyReference.cache
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.RazorAssemblyInfo.cache
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.RazorAssemblyInfo.cs
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.AssemblyInfoInputs.cache
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.AssemblyInfo.cs
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.dll
+C:\Users\ISInc\code\myfirstwebapp\obj\Debug\netcoreapp2.2\MyFirstWebApp.pdb
